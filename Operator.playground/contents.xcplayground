@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Overview'/>
+        <page name='Arithmetic'/>
+        <page name='Comparison'/>
+        <page name='Logics'/>
+        <page name='Bitwise'/>
+        <page name='Assignment'/>
+        <page name='Range Operator'/>
+        <page name='Misc'/>
+        <page name='Nill-Coalescing'/>
+    </pages>
+</playground>
