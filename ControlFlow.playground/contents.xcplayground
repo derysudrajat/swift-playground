@@ -3,5 +3,8 @@
     <pages>
         <page name='ForIn'/>
         <page name='While'/>
+        <page name='Conditional Statement'/>
+        <page name='Control Transfer'/>
+        <page name='Early Exit with Guard'/>
     </pages>
 </playground>
